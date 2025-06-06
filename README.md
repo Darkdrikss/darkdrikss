@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying on **ESCOM**
 
-- 🌱 I’m currently learning **Data Engineering, Machine Learning**
+- 🌱 I’m currently learning **Data Engineering, Machine Learning...**
 
 - 👯 I’m looking to collaborate on **Women in Tech**
 
