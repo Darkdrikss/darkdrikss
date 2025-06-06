@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/darkdrikss" target="blank"><img src="https://img.shields.io/twitter/follow/darkdrikss?logo=twitter&style=for-the-badge" alt="darkdrikss" /></a> </p>
 
-- 🔭 I’m currently studying on **ESCOM**
+- 🔭 Computer Systems Engineering  - ESCOM - IPN*
 
-- 🌱 I’m currently learning **Data Engineering, Machine Learning...**
+- 🌱 I’m currently learning **Data Engineering, Machine Learning**
 
 - 👯 I’m looking to collaborate on **Women in Tech**
 
